@@ -1,0 +1,30 @@
+.DS_Store
+.idea
+venv
+parser_config
+expense_files
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.poetry/
+.venv/
+
+# Node
+node_modules/
+
+# Playwright
+.ms-playwright/
+
+# Output
+gemini_export/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
